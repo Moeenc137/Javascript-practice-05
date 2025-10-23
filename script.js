@@ -31,7 +31,7 @@ console.log(spclString);
 console.log("optical\nglasses"); //shifts text to next line
 console.log("optical\tglasses"); //make a tab space between text
 
-//string methods
+//string methods:
 
 let methString = "      My name is khan   ";
 let strcon = " and i am not a terrorist";
@@ -63,6 +63,4 @@ console.log(methString.charAt(12)); // finds charecter by number from a string
 
 let fullname = prompt("enter full name to get username:");
 
-console.log{
-    
-}
+console.log("@", fullname, fullname.length);
